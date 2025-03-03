@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-![really-no-name](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![My Code Commit](https://github-readme-stats.vercel.app/api?username=really-no-name&show_icons=true&theme=radical)
